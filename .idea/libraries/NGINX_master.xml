@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NGINX-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/N2-REDIS-NGINX-main/NGINX-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
